@@ -1,6 +1,5 @@
 import Image from 'next/image'
 
-import { Button } from '@/components/Button'
 import { NavLink } from '@/components/NavLink'
 import { Container } from '@/components/Container'
 import logoLaravel from '@/images/logos/laravel.svg'
