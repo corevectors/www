@@ -16,7 +16,7 @@ export function Hero() {
         <span className="relative whitespace-nowrap text-blue-600">
           <span className="relative">Calm Tech</span>
         </span>{' '}
-        for your benefit.
+        for the benefit of all.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
         We are builders of technology who help people spend time together with awareness, integrity and love.
