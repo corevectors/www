@@ -4,12 +4,13 @@ import logo from '@/images/logos/clearday.png'
 
 export function Products() {
   return (
-    <div className="bg-white py-16 sm:py-24">
+    <div className="bg-white">
       <div className="relative sm:py-16">
         <div aria-hidden="true" className="hidden sm:block">
           <div
             className="absolute inset-y-0 left-0 w-1/2 rounded-r-3xl bg-gray-50"/>
-          <svg className="absolute top-8 left-1/2 -ml-3" width="404" height="392"
+          <svg className="absolute top-8 left-1/2 -ml-3" width="404"
+               height="392"
                fill="none" viewBox="0 0 404 392">
             <defs>
               <pattern id="8228f071-bcee-4ec8-905a-2a059a2cc4fb" x="0" y="0"
@@ -41,9 +42,10 @@ export function Products() {
               </svg>
             </div>
             <div className="relative">
-              <div className="sm:text-center">
+              <div>
+                <span
+                  className="flex flex-col justify-center items-center mx-auto mt-6 text-lg text-indigo-200 max-w-lg">
                 <Image src={logo}/>
-                <span className="mx-auto mt-6 max-w-2xl text-lg text-indigo-200">
                   <p className="mt-6">
                     In 2023, we are launching a behind-the-scenes software
                     service that keeps an eye on your calendars, helping you
@@ -55,23 +57,28 @@ export function Products() {
                     will help.
                   </p>
                   <p className="mt-6">
-                    While other calendar services use robots to squeeze every
-                    ounce of productivity out of your day, we aim to help you
-                    to live a life full of genuine human connection.
+                   We aim to help you to live a life full of genuine human
+                    connection. No creepy robots moving around your calendar
+                    events. Just awareness, integrity and love.
+                  </p>
+                  <p className="mt-6 font-extrabold">
+                    Join the invite list for early access and to be notified
+                    when clear.day is available to the general public.
                   </p>
                 </span>
               </div>
               <form action="#" className="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
                 <div className="min-w-0 flex-1">
-                  <label htmlFor="cta-email" className="sr-only">Email address</label>
+                  <label htmlFor="cta-email" className="sr-only">Email
+                    address</label>
                   <input id="cta-email" type="email"
                          className="block w-full rounded-md border border-transparent px-5 py-3 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600"
                          placeholder="Enter your email"/>
                 </div>
                 <div className="mt-4 sm:mt-0 sm:ml-3">
                   <button type="submit"
-                          className="block w-full rounded-md border border-transparent bg-indigo-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-indigo-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600 sm:px-10">Notify
-                    me
+                          className="block w-full rounded-md border border-transparent bg-indigo-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-indigo-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600 sm:px-10">
+                    Join the invite list
                   </button>
                 </div>
               </form>
