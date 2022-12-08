@@ -93,7 +93,7 @@ export function Header() {
       <Container>
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
-            <Link href="#" aria-label="Home">
+            <Link href="/" aria-label="Home">
               <span className="font-semibold">Core Vectors</span>
             </Link>
             <div className="hidden md:flex md:gap-x-6">
