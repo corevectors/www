@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 import { NavLink } from '@/components/NavLink'
 import { Container } from '@/components/Container'
 
