@@ -38,12 +38,16 @@ export function About() {
         <div class="mx-auto max-w-prose text-lg">
           <h1>
             <span
-              class="block text-center text-lg font-semibold text-indigo-600">Calm Tech for the Benefit of All</span>
+              class="block text-center text-lg font-semibold text-indigo-600">
+              Calm Tech for the Benefit of All
+            </span>
             <span
-              class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Less nonsense. More awesome.</span>
+              class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
+              More awesome. Less nonsense.
+            </span>
           </h1>
           <p class="mt-8 text-xl leading-8 text-gray-500">
-            We are software industry veterans who{" "}
+            We are a group software industry veterans who{" "}
             <a target="_blank" rel="noreferrer noopener"
                className="underline text-indigo-600 font-medium"
                href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
@@ -56,6 +60,10 @@ export function About() {
           </p>
         </div>
         <div class="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
+          <p>
+            In traditional terms, you can think of us as a business
+            committed to building calm products that foster genuine human connection.
+          </p>
           <p>
             We {" "}
             <a href="products">
@@ -71,10 +79,6 @@ export function About() {
             <a target="_blank" rel="noreferrer noopener"
                href="https://www.antidoteto.tech">antidote to
               tech</a>.
-          </p>
-          <p>
-            In traditional terms, you can think of us as a business
-            committed to building calm products that foster genuine human connection.
           </p>
           <NavLink href="mailto:hello@corevectors.com">Connect with us
             →</NavLink>
