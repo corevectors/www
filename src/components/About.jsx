@@ -40,7 +40,7 @@ export function About() {
             <span
               class="block text-center text-lg font-semibold text-indigo-600">Calm Tech for the Benefit of All</span>
             <span
-              class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Core Vectors</span>
+              class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Less nonsense. More awesome.</span>
           </h1>
           <p class="mt-8 text-xl leading-8 text-gray-500">
             We are software industry veterans who{" "}
@@ -73,8 +73,8 @@ export function About() {
               tech</a>.
           </p>
           <p>
-            In traditional terms, you can think of us as a product studio
-            committed to genuine human connection and kindness.
+            In traditional terms, you can think of us as a business
+            committed to building calm products that foster genuine human connection.
           </p>
           <NavLink href="mailto:hello@corevectors.com">Connect with us
             →</NavLink>
