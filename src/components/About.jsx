@@ -43,29 +43,38 @@ export function About() {
               class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Core Vectors</span>
           </h1>
           <p class="mt-8 text-xl leading-8 text-gray-500">
-            We are software industry veterans who believe people spending time
-            together with awareness, integrity and love is the ultimate positive
+            We are software industry veterans who{" "}
+            <a target="_blank" rel="noreferrer noopener"
+               className="underline text-indigo-600 font-medium"
+               href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
+              believe
+            </a>
+            {" "}
+            people spending time together with awareness, integrity and love is
+            the ultimate positive
             sum game.
           </p>
         </div>
         <div class="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
           <p>
-            We produce dependable software
-            systems that help you spend quality time together with others
-            because
-            we see this as a benefit to all.
+            We {" "}
+            <a href="products">
+              produce
+            </a>
+            {" "}
+            dependable software systems to help you spend quality
+            time together with yourself and others because we see this as a
+            benefit to all.
           </p>
           <p>
-            Extending the benefits of our services to all requires sustainable
-            growth.
-            In business, both our users' best interests and our team's quality
-            of life come first. We will limit the our business' growth, if
-            necessary, to maintain
-            its integrity and sustainability.
+            We are part of the{" "}
+            <a target="_blank" rel="noreferrer noopener"
+               href="https://www.antidoteto.tech">antidote to
+              tech</a>.
           </p>
           <p>
-            In our daily lives, we cultivate a friendly and attuned relationship
-            with our own minds so that we may act calmly with everyone at heart.
+            In traditional terms, you can think of us as a product studio
+            committed to genuine human connection and kindness.
           </p>
           <NavLink href="mailto:hello@corevectors.com">Connect with us
             →</NavLink>
