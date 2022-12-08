@@ -49,12 +49,11 @@ export function Products() {
                   <p className="mt-6">
                     In 2023, we are launching a behind-the-scenes software
                     service that keeps an eye on your calendars, helping you
-                    schedule time together with yourself and others.
+                    spend time together with yourself and others.
                   </p>
                   <p className="mt-6">
                     If you've ever double booked, missed appointments, or found
-                    it hard to reserve time for yourself and others, clear.day
-                    will help.
+                    it hard to reserve time, clear.day is for you.
                   </p>
                   <p className="mt-6">
                    We aim to help you to live a life full of genuine human
