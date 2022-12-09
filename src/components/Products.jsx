@@ -45,14 +45,14 @@ export function Products() {
               <div>
                 <span
                   className="flex flex-col justify-center items-center mx-auto mt-6 text-lg text-indigo-200 max-w-lg">
-                <Image src={logo}/>
+                <Image src={logo} alt="clear.day"/>
                   <p className="mt-6">
                     In 2023, we are launching a behind-the-scenes software
                     service that keeps an eye on all your calendars, helping you
                     spend time together with yourself and others.
                   </p>
                   <p className="mt-6">
-                    If you've ever double booked, missed appointments, or found
+                    If you&apos;ve ever double booked, missed appointments, or found
                     it hard to reserve time, clear.day is for you.
                   </p>
                   <p className="mt-6 font-extrabold">

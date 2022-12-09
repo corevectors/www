@@ -38,7 +38,7 @@ export default function Home() {
             </div>
             <span
               className="relative mb-4 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              We'd ❤️ to hear from you.
+              We&apos;d ❤️ to hear from you.
             </span>
             <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
@@ -64,7 +64,7 @@ export default function Home() {
                     width="100%" height="747" frameBorder="0" marginHeight="0"
                     marginWidth="0"
                     title="Contact"></iframe>
-                  <Script>{`
+                  <Script id="contact-form">{`
           var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined" != typeof Tally ? Tally.loadEmbeds() : d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function (e) {
             e.src = e.dataset.tallySrc
           }))};if(d.querySelector('script[src="'+w+'"]'))v();else{var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}
