@@ -21,7 +21,7 @@ export default function Home() {
             <div aria-hidden="true" className="hidden sm:block">
               <div
                 className="absolute inset-y-0 left-0 w-1/2 rounded-r-3xl bg-gray-50"/>
-              <svg className="absolute top-8 left-1/2 -ml-3" width="404"
+              <svg className="absolute top-8 left-1/2 ml-3" width="404"
                    height="392"
                    fill="none" viewBox="0 0 404 392">
                 <defs>
@@ -37,9 +37,9 @@ export default function Home() {
               </svg>
             </div>
             <div
-              className="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
+              className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
               <div
-                className="relative overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
+                className="relative w-2/3 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
                 <div aria-hidden="true"
                      className="absolute inset-0 -mt-72 sm:-mt-32 md:mt-0">
                   <svg className="absolute inset-0 h-full w-full"
