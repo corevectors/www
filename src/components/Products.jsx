@@ -70,7 +70,7 @@ export function Products() {
                 <div className="min-w-0 flex-1">
                   <label htmlFor="cta-email" className="sr-only">Email
                     address</label>
-                  <input id="cta-email" type="email"
+                  <input id="cta-email" type="email" name="email"
                          className="block w-full rounded-md border border-transparent px-5 py-3 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600"
                          placeholder="Enter your email"/>
                 </div>
