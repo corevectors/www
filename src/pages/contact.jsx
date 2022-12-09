@@ -36,6 +36,10 @@ export default function Home() {
                       fill="url(#8228f071-bcee-4ec8-905a-2a059a2cc4fb)"/>
               </svg>
             </div>
+            <span
+              className="relative mb-4 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
+              We'd ❤️ to hear from you.
+            </span>
             <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
               <div
