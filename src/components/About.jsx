@@ -80,7 +80,7 @@ export function About() {
                href="https://www.antidoteto.tech">antidote to
               tech</a>.
           </p>
-          <NavLink href="mailto:hello@corevectors.com">Connect with us
+          <NavLink href="contact">Connect with us
             →</NavLink>
         </div>
       </div>

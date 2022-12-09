@@ -14,8 +14,8 @@ export function Hero() {
         We are builders of technology who help people spend time together with awareness, integrity and love.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <NavLink href="/about">Learn more →</NavLink>
-        <NavLink href="mailto:hello@corevectors.com">Connect with us →</NavLink>
+        <NavLink href="about">Learn more →</NavLink>
+        <NavLink href="contact">Connect with us →</NavLink>
       </div>
     </Container>
   )
