@@ -61,7 +61,7 @@ export function Products() {
                   </p>
                 </span>
               </div>
-              <form action="#" className="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
+              <form action="#" className="mt-12 sm:mx-auto sm:flex sm:max-w-lg" netlify>
                 <div className="min-w-0 flex-1">
                   <label htmlFor="cta-email" className="sr-only">Email
                     address</label>
