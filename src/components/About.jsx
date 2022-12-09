@@ -43,11 +43,11 @@ export function About() {
             </span>
             <span
               className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              More awesome. Less nonsense.
+              More warmth. Less frantic.
             </span>
           </h1>
           <p className="mt-8 text-xl leading-8 text-gray-500">
-            We are a group software industry veterans who{" "}
+            We are a group of software industry veterans who{" "}
             <a target="_blank" rel="noreferrer noopener"
                className="underline text-indigo-600 font-medium"
                href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
