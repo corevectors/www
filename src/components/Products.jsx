@@ -61,8 +61,12 @@ export function Products() {
                   </p>
                 </span>
               </div>
-              <form action="#" className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
+              <form name="invite list"
+                    method="POST"
+                    className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
+                    data-netlify-recaptcha="true"
                     data-netlify="true">
+                <div data-netlify-recaptcha="true"></div>
                 <div className="min-w-0 flex-1">
                   <label htmlFor="cta-email" className="sr-only">Email
                     address</label>
