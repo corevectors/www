@@ -71,8 +71,8 @@ export function Products() {
                          className="block w-full rounded-md border border-transparent px-5 py-3 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600"
                          placeholder="Enter your email"/>
                 </div>
+                <div data-netlify-recaptcha="true"></div>
                 <div className="mt-4 sm:mt-0 sm:ml-3">
-                  <div data-netlify-recaptcha="true"></div>
                   <button type="submit"
                           className="block w-full rounded-md border border-transparent bg-indigo-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-indigo-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600 sm:px-10">
                     Join the invite list
