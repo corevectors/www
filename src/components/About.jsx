@@ -43,7 +43,7 @@ export function About() {
             </span>
             <span
               className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              More warmth. Less distraction.
+              More warmth. Less frenzy.
             </span>
           </h1>
           <p className="mt-8 text-xl leading-8 text-gray-500">
