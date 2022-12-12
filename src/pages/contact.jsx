@@ -37,13 +37,13 @@ export default function Home() {
               </svg>
             </div>
             <span
-              className="relative mb-4 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
+              className="relative mb-4 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl xl:text-5xl">
               We&apos;d ❤️ to hear from you.
             </span>
             <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
               <div
-                className="relative w-2/3 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
+                className="relative w-screen md:w-3/4 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
                 <div aria-hidden="true"
                      className="absolute inset-0 -mt-72 sm:-mt-32 md:mt-0">
                   <svg className="absolute inset-0 h-full w-full"
