@@ -43,7 +43,7 @@ export default function Home() {
             <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
               <div
-                className="relative w-screen md:w-3/4 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
+                className="relative w-full md:w-3/4 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
                 <div aria-hidden="true"
                      className="absolute inset-0 -mt-72 sm:-mt-32 md:mt-0">
                   <svg className="absolute inset-0 h-full w-full"
