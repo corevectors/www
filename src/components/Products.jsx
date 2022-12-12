@@ -52,8 +52,8 @@ export function Products() {
                     spend time together with yourself and others.
                   </p>
                   <p className="mt-6">
-                    If you&apos;ve ever double booked, missed appointments, or found
-                    it hard to reserve time, clear.day is for you.
+                    Tame your work. Embrace community. Experience the warmth of
+                    shared time. This is clear.day.
                   </p>
                   <p className="mt-6 font-extrabold">
                     Join the invite list for early access and to be notified
