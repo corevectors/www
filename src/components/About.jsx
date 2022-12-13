@@ -106,7 +106,7 @@ export function About() {
           <div>
             <ul
               role="list"
-              className="list-none space-y-12 sm:-mt-8 sm:space-y-0 sm:divide-y sm:divide-gray-200 lg:space-y-0"
+              className="pl-0 list-none space-y-12 sm:-mt-8 sm:space-y-0 sm:divide-y sm:divide-gray-200 lg:space-y-0"
             >
               {people.map((person) => (
                 <li key={person.name} className="sm:py-8">
