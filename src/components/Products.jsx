@@ -47,17 +47,18 @@ export function Products() {
                   className="flex flex-col justify-center items-center mx-auto mt-6 text-lg text-indigo-200 max-w-lg">
                 <Image src={logo} alt="clear.day"/>
                   <p className="mt-6">
-                    In 2023, we are launching a behind-the-scenes software
-                    service that keeps an eye on all your calendars, helping you
-                    spend time together with yourself and others.
+                    In 2023, we are launching a service to help you
+                    preserve and share your time. It works behind-the-scenes
+                    to keep an eye on all of your calendars. We call it
+                    clear.day.
                   </p>
                   <p className="mt-6">
                     Tame your work. Embrace community. Experience the warmth of
-                    shared time. This is clear.day.
+                    shared time.
                   </p>
                   <p className="mt-6 font-extrabold">
-                    Join the invite list for early access and to be notified
-                    when clear.day is available to the general public.
+                    Join the clear.day invite list. Get early access and know
+                    when clear.day opens to the general public.
                   </p>
                 </span>
               </div>
