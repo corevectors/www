@@ -12,7 +12,7 @@ const people = [{
   imageUrl: kerry,
   bio: 'Kerry is an awake-aware speck of the universe with a ' +
     'background in entrepreneurship and computer science. This is both as ' +
-    'miraculous and ridiculous as it sounds. Nonetheless, he hopes you\'ll spend time ' +
+    'miraculous and ridiculous as it sounds. Nevertheless, he hopes you\'ll spend time ' +
     'together with him someday soon. 🤘🧘🏽🌞',
   linkedinUrl: 'https://www.linkedin.com/in/kkurian/',
 },
