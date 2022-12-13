@@ -3,6 +3,8 @@ import Image from 'next/image'
 import {NavLink} from "@/components/NavLink";
 
 import kerry from '@/images/people/kerry.jpg'
+import subbu from '@/images/people/subbu.jpg'
+import you from '@/images/people/you.jpg'
 
 const people = [{
   name: 'Kerry Ivan Kurian',
@@ -11,9 +13,23 @@ const people = [{
   bio: 'Kerry is an awake-aware speck of the universe with a ' +
     'background in entrepreneurship and computer science. This is both as ' +
     'miraculous and ridiculous as it sounds. Nonetheless, he hopes you\'ll spend time ' +
-    'together with him someday soon.',
+    'together with him someday soon. 🤘🧘🏽🌞',
   linkedinUrl: 'https://www.linkedin.com/in/kkurian/',
-}, // More people...
+},
+  {
+    name: 'Subbu Balakrishnan',
+    role: 'Partner',
+    imageUrl: subbu,
+    bio: 'Bio coming soon!',
+    linkedinUrl: 'https://www.linkedin.com/in/subbubalakrishnan/',
+  },
+  {
+    name: 'You',
+    role: 'Partner',
+    imageUrl: you,
+    bio: 'That\'s right. You. We would ❤️ to work with you. Please connect with us.',
+    linkedinUrl: '#',
+  },
 ]
 
 export function About() {
