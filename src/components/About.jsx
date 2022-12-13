@@ -4,6 +4,7 @@ import {NavLink} from "@/components/NavLink";
 
 import kerry from '@/images/people/kerry.jpg'
 import subbu from '@/images/people/subbu.jpg'
+import yana from '@/images/people/yana.jpg'
 import you from '@/images/people/you.jpg'
 
 const people = [{
@@ -22,6 +23,13 @@ const people = [{
     imageUrl: subbu,
     bio: 'Bio coming soon!',
     linkedinUrl: 'https://www.linkedin.com/in/subbubalakrishnan/',
+  },
+  {
+    name: 'Yana Prokopchuk',
+    role: 'Partner',
+    imageUrl: yana,
+    bio: 'Bio coming soon!',
+    linkedinUrl: 'https://www.linkedin.com/in/yana-prokopchuk/',
   },
   {
     name: 'You',
