@@ -62,7 +62,7 @@ export function Products() {
                   </p>
                 </span>
               </div>
-              <form name="invite-list"
+              <form name="inviteList"
                     action="/success"
                     method="POST"
                     className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
