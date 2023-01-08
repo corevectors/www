@@ -78,7 +78,7 @@ export function About() {
           <h1>
             <span
               className="block text-center text-lg font-semibold text-indigo-600">
-              Calm Tech for the Benefit of All
+              calm.codes for the benefit of all
             </span>
             <span
               className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">

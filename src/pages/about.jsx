@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Core Vectors - About</title>
+        <title>calm.codes - About Us</title>
         <meta
           name="description"
           content="Developers of calm technologies. We help people spend time together with awareness, integrity and love."

@@ -12,7 +12,7 @@ export function Footer() {
           <div className="flex gap-x-6">
           </div>
           <p className="mt-6 text-sm text-slate-500 sm:mt-0">
-            Copyright &copy; {new Date().getFullYear()} Core Vectors LLC
+            Copyright &copy; {new Date().getFullYear()} calm.codes LLC
           </p>
         </div>
       </Container>
