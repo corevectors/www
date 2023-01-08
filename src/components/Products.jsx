@@ -63,7 +63,6 @@ export function Products() {
                 </span>
               </div>
               <form name="inviteList"
-                    action="/success"
                     method="POST"
                     className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
                     data-netlify="true">
