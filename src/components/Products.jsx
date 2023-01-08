@@ -66,6 +66,7 @@ export function Products() {
                     method="POST"
                     className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
                     data-netlify="true">
+                <input type="hidden" name="form-name" value="inviteList" />
                 <div className="min-w-0 flex-1">
                   <label htmlFor="cta-email" className="sr-only">Email
                     address</label>
