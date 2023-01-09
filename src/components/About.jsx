@@ -100,27 +100,18 @@ export function About() {
         </div>
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
           <p>
-            In traditional terms, you can think of us as a business committed to
+            In traditional terms, you can think of us as a profitable, bootstrapped business committed to
             building calm products that foster genuine human connection.
           </p>
           <p>
-            We
-            {" "}
-            <a target="_blank" rel="noreferrer noopener" href="https://kerrykurian.com/posts/solstice-and-the-path">
-              envision
-              </a>
-            {" "}
-            a world in which people are spending more time together
-            with themselves and others in awareness, integrity and love. To that
-            end, we are on a mission to deliver private social networks that
+            We are on a mission to deliver private social networks that
             bring people together in real life.
           </p>
 
           <p>
-            Unlike traditional online businesses that pursue endless growth and
-            enjoy customer lock-in, we seek to get people offline and into the
-            real world. The day we achieve our ultimate success is the day our
-            products become superfluous.
+            Unlike traditional social networks that manipulate users into
+            endless online loops, our private social networks help people
+            offline and together in the real world as quickly and calmly as possible.
           </p>
 
           <p>
