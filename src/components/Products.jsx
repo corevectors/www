@@ -3,8 +3,7 @@ import Image from 'next/image'
 import logo from '@/images/logos/clearday.png'
 
 export function Products() {
-  return (
-    <div className="bg-white">
+  return (<div className="bg-white">
       <div className="relative sm:py-16">
         <div aria-hidden="true" className="hidden sm:block">
           <div
@@ -45,20 +44,18 @@ export function Products() {
               <div>
                 <span
                   className="flex flex-col justify-center items-center mx-auto mt-6 text-lg text-indigo-200 max-w-lg">
-                <Image src={logo} alt="clear.day"/>
+                <h1>
+                  <span className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-white-900 sm:text-4xl">
+                    ✨ playdate.irl.rsvp ✨
+                  </span>
+                </h1>
                   <p className="mt-6">
-                    In 2023, we are launching a service to help you
-                    preserve and share your time. It works behind-the-scenes
-                    to keep an eye on all of your calendars. We call it
-                    clear.day.
+                    We are developing a private social network for
+                    parents of children ages 0-12, to help them have more
+                    play dates.
                   </p>
                   <p className="mt-6">
-                    Tame your work. Embrace community. Experience the warmth of
-                    shared time.
-                  </p>
-                  <p className="mt-6 font-extrabold">
-                    Join the clear.day invite list. Get early access and know
-                    when clear.day opens to the general public.
+                    To learn more and get early access, please leave your email here.
                   </p>
                 </span>
               </div>
@@ -66,7 +63,7 @@ export function Products() {
                     method="POST"
                     className="mt-12 sm:mx-auto sm:flex sm:max-w-lg"
                     data-netlify="true">
-                <input type="hidden" name="form-name" value="inviteList" />
+                <input type="hidden" name="form-name" value="inviteList"/>
                 <div className="min-w-0 flex-1">
                   <label htmlFor="cta-email" className="sr-only">Email
                     address</label>
@@ -77,14 +74,16 @@ export function Products() {
                 <div className="mt-4 sm:mt-0 sm:ml-3">
                   <button type="submit"
                           className="block w-full rounded-md border border-transparent bg-indigo-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-indigo-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-600 sm:px-10">
-                    Join the invite list
+                    Request Early Access
                   </button>
                 </div>
               </form>
+              <div className="text-indigo-200 text-sm mt-2 sm:mx-auto sm:flex sm:max-w-lg">
+                By requesting early access you agree to receive email from irl.rsvp.
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  )
+    </div>)
 }
