@@ -41,6 +41,14 @@ export default function Home() {
               We&apos;d ❤️ to hear from you.
             </span>
             <div
+              className="relative mb-4 block text-center text-lg leading-8 tracking-tight text-gray-900 sm:text-2xl xl:text-3xl">
+              Don&apos;t see a form below? Hit reload.
+            </div>
+            <div
+              className="relative mb-4 block text-center text-xs leading-8 tracking-tight text-gray-900 sm:text-sm xl:text-sm">
+              (Yeah, we'll fix that soon! 😊)
+            </div>
+            <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
               <div
                 className="relative w-full md:w-3/4 lg:w-1/2 overflow-hidden rounded-2xl px-6 py-10 shadow-xl sm:px-12 bg-white">
