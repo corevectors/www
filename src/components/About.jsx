@@ -100,13 +100,17 @@ export function About() {
         </div>
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
           <p>
-            In traditional terms, you can think of us as a business
-            committed to building calm products that foster genuine human
-            connection.
+            In traditional terms, you can think of us as a business committed to
+            building calm products that foster genuine human connection.
           </p>
-
           <p>
-            We envision a world in which people are spending more time together
+            We
+            {" "}
+            <a target="_blank" rel="noreferrer noopener" href="https://kerrykurian.com/posts/solstice-and-the-path">
+              envision
+              </a>
+            {" "}
+            a world in which people are spending more time together
             with themselves and others in awareness, integrity and love. To that
             end, we are on a mission to deliver private social networks that
             bring people together in real life.
