@@ -110,8 +110,8 @@ export function About() {
 
           <p>
             Unlike traditional social networks that manipulate users into
-            endless online loops, our private social networks help people
-            offline and together in the real world as quickly and calmly as possible.
+            endless online loops, our private social networks connect people
+            offline as quickly and calmly as possible.
           </p>
 
           <p>
