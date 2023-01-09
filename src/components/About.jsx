@@ -86,7 +86,7 @@ export function About() {
             </span>
           </h1>
           <p className="mt-8 text-xl leading-8 text-gray-500">
-            We are a <a className="underline text-indigo-600 font-medium" href="#about-us">group</a> of software industry veterans who{" "}
+            Welcome to calm.codes. We are a <a className="underline text-indigo-600 font-medium" href="#about-us">group</a> of software industry veterans who{" "}
             <a target="_blank" rel="noreferrer noopener"
                className="underline text-indigo-600 font-medium"
                href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
@@ -104,16 +104,21 @@ export function About() {
             committed to building calm products that foster genuine human
             connection.
           </p>
+
           <p>
-            We {" "}
-            <a href="products">
-              produce
-            </a>
-            {" "}
-            dependable software systems to help you spend quality
-            time together with yourself and others because we see this as a
-            benefit to all.
+            We envision a world in which people are spending more time together
+            with themselves and others in awareness, integrity and love. To that
+            end, we are on a mission to deliver private social networks that
+            bring people together in real life.
           </p>
+
+          <p>
+            Unlike traditional online businesses that pursue endless growth and
+            enjoy customer lock-in, we seek to get people offline and into the
+            real world. The day we achieve our ultimate success is the day our
+            products become superfluous.
+          </p>
+
           <p>
             We are part of the{" "}
             <a target="_blank" rel="noreferrer noopener"
