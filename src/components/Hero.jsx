@@ -11,7 +11,7 @@ export function Hero() {
         for the benefit of all.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        We enable private social networks that bring people together in real life.
+        We deliver private social networks that bring people together in real life.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <NavLink href="about">Learn more →</NavLink>

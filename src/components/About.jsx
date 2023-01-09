@@ -93,14 +93,14 @@ export function About() {
               believe
             </a>
             {" "}
-            people spending time together with awareness, integrity and love is
+            people spending time together in awareness, integrity and love is
             the ultimate positive
             sum game.
           </p>
         </div>
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
           <p>
-            In traditional terms, you can think of us as a profitable, bootstrapped business committed to
+            Think of us as a profitable, bootstrapped business committed to
             building calm products that foster genuine human connection.
           </p>
           <p>
