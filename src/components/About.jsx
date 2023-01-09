@@ -77,63 +77,40 @@ export function About() {
         <div className="mx-auto max-w-prose text-lg">
           <h1>
             <span
-              className="block text-center text-lg font-semibold text-indigo-600">
-              calm.codes for the benefit of all
-            </span>
-            <span
               className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              🤘🧘🏽🌞
+            Tell Me About calm.codes
             </span>
           </h1>
-          <p className="mt-8 text-xl leading-8 text-gray-500">
-            Welcome to calm.codes. We are a <a className="underline text-indigo-600 font-medium" href="#about-us">group</a> of software industry veterans who{" "}
-            <a target="_blank" rel="noreferrer noopener"
-               className="underline text-indigo-600 font-medium"
-               href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
-              believe
-            </a>
-            {" "}
-            people spending time together with awareness, integrity and love is
-            the ultimate positive
-            sum game.
-          </p>
         </div>
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
-          <p>
-            In traditional terms, you can think of us as a business committed to
-            building calm products that foster genuine human connection.
+          <p className="mt-8 text-xl leading-8 text-gray-500">
+            We are a group of <a className="underline text-indigo-600
+            font-medium" href="#about-us">software industry veterans</a> who
+            build calm products fostering genuine human connection.
           </p>
           <p>
-            We
-            {" "}
-            <a target="_blank" rel="noreferrer noopener" href="https://kerrykurian.com/posts/solstice-and-the-path">
-              envision
-              </a>
-            {" "}
-            a world in which people are spending more time together
-            with themselves and others in awareness, integrity and love. To that
-            end, we are on a mission to deliver private social networks that
-            bring people together in real life.
+            Our mission is to deliver private social networks that bring us all
+            together in real life.
           </p>
-
           <p>
-            Unlike traditional online businesses that pursue endless growth and
-            enjoy customer lock-in, we seek to get people offline and into the
-            real world. The day we achieve our ultimate success is the day our
-            products become superfluous.
+            Unlike traditional social networks that coerce
+            you into loops of endless online engagement, our private
+            social networks usher you out into the real world as quickly and
+            calmly as possible.
           </p>
-
           <p>
-            We are part of the{" "}
-            <a target="_blank" rel="noreferrer noopener"
-               href="https://www.antidoteto.tech">antidote to
-              tech</a>.
+            And when we say "private" we mean <em>private</em>. It's
+            just you and your friends in there. No advertisements
+            and promotions. No data sharing.
           </p>
-
+          <p>
+            We run our business at a profit by charging a fee in exchange for
+            our services. It's as simple as that.
+          </p>
           <span
             id="about-us"
             className="pt-5 mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              Tell Me Who You Are.
+              Tell Me Who You Are
             </span>
 
           <div>
