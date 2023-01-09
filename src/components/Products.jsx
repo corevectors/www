@@ -46,7 +46,7 @@ export function Products() {
                   className="flex flex-col justify-center items-center mx-auto mt-6 text-lg text-indigo-200 max-w-lg">
                 <h1>
                   <span className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-white-900 sm:text-4xl">
-                    ✨ playdate.irl.rsvp ✨
+                    ✨playdate.irl.rsvp✨
                   </span>
                 </h1>
                   <p className="mt-6">
