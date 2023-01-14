@@ -46,7 +46,7 @@ export default function Home() {
             </div>
             <div
               className="relative mb-4 block text-center text-xs leading-8 tracking-tight text-gray-900 sm:text-sm xl:text-sm">
-              (Yeah, we'll fix that soon! 😊)
+              (Yeah, we&apos;ll fix that soon! 😊)
             </div>
             <div
               className="mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8 flex flex-row justify-center items-center">
