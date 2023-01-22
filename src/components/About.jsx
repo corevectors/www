@@ -77,43 +77,27 @@ export function About() {
         <div className="mx-auto max-w-prose text-lg">
           <h1>
             <span
-              className="block text-center text-lg font-semibold text-indigo-600">
-              calm.codes for the benefit of all
-            </span>
-            <span
               className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              🤘🧘🏽🌞
+              ❤️🧘🏽🌞
             </span>
           </h1>
           <p className="mt-8 text-xl leading-8 text-gray-500">
-            Welcome to calm.codes. We are a <a className="underline text-indigo-600 font-medium" href="#about-us">group</a> of software industry veterans who{" "}
-            <a target="_blank" rel="noreferrer noopener"
-               className="underline text-indigo-600 font-medium"
-               href={"https://www.linkedin.com/posts/kkurian_ive-been-retired-since-firing-my-last-client-activity-6995795384153362432-hTP5?utm_source=share&utm_medium=member_desktop"}>
-              believe
-            </a>
-            {" "}
-            people spending time together in awareness, integrity and love is
-            the ultimate positive
-            sum game.
+            calm.codes is a <a className="underline text-indigo-600 font-medium"
+            href="#about-us">community</a> of software industry veterans who are
+            advancing a culture of awareness, integrity and love for the benefit of all.
           </p>
         </div>
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
           <p>
-            Think of us as a profitable, bootstrapped business committed to
-            building calm products that foster genuine human connection.
+            Our products introduce glimpses of consciousness and open-hearted connection into
+            the isolating hustle of modern life.
           </p>
           <p>
-            We are on a mission to deliver private social networks that
-            bring people together in real life.
+            Today, we are exploring the development of private social networks that
+            bring people together in real life. Unlike traditional social networks
+            that manipulate users into endless online loops, our private social
+            networks connect people offline as quickly and calmly as possible.
           </p>
-
-          <p>
-            Unlike traditional social networks that manipulate users into
-            endless online loops, our private social networks connect people
-            offline as quickly and calmly as possible.
-          </p>
-
           <p>
             We are part of the{" "}
             <a target="_blank" rel="noreferrer noopener"
