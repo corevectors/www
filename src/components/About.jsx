@@ -5,6 +5,7 @@ import {NavLink} from "@/components/NavLink";
 import kerry from '@/images/people/kerry.jpg'
 import subbu from '@/images/people/subbu.jpg'
 import yana from '@/images/people/yana.jpg'
+import bethany from '@/images/people/bethany.jpg'
 import you from '@/images/people/you.jpg'
 
 const people = [{
@@ -14,7 +15,7 @@ const people = [{
   bio: 'Kerry is an awake-aware speck of the universe with a ' +
     'background in entrepreneurship and computer science. This is both as ' +
     'miraculous and ridiculous as it sounds. He hopes to spend ' +
-    'time together with you in real life someday soon. 🤘🧘🏽🌞',
+    'time together with you in real life someday soon. 🧘🏽',
   linkedinUrl: 'https://www.linkedin.com/in/kkurian/',
 },
   {
@@ -30,6 +31,13 @@ const people = [{
     imageUrl: yana,
     bio: 'Bio coming soon!',
     linkedinUrl: 'https://www.linkedin.com/in/yana-prokopchuk/',
+  },
+  {
+    name: 'Bethany Lechner',
+    role: 'Partner',
+    imageUrl: bethany,
+    bio: 'Bio coming soon!',
+    linkedinUrl: 'https://www.linkedin.com/in/bethanylechner/',
   },
   {
     name: 'You',
