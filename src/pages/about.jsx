@@ -11,7 +11,7 @@ export default function Home() {
         <title>calm.codes - About Us</title>
         <meta
           name="description"
-          content="Developers of calm technologies. We help people spend time together with awareness, integrity and love."
+          content="Developers of calm technologies. We help people spend time together in awareness, integrity and love."
         />
       </Head>
       <Header />
